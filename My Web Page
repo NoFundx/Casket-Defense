@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Justin Still - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: lightblue;
+            color: purple;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Justin Still</h1>
+        <p>10-year military veteran for the United States of America</p>
+        <p>Father | Believer of God | Promoter of Renewable Energy</p>
+        <p>Welcome to my personal website! Here, I share my experiences, beliefs, and passion for renewable energy and a positive climate.</p>
+    </div>
+</body>
+</html>
