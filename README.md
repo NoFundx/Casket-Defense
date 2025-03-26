@@ -1,4 +1,4 @@
-# Casket-Defense
+# CasketDefense
 # Justin Still - Personal Website
 
 This is my personal website hosted on GitHub Pages. It provides information about me and my interests.
