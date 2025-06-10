@@ -1,20 +1,86 @@
-# CasketDefense
-# Justin Still - Personal Website
+# Eats Bitcoin
 
-This is my personal website hosted on GitHub Pages. It provides information about me and my interests.
+Welcome to the **Eats Bitcoin** GitHub repository! This project merges creativity, engineering, and Web3 principles into one powerful platform. Whether you're here to explore code, contribute to development, or draw inspiration for your own decentralized projects, you're in the right place.
 
-## About Me
+---
 
-I'm Justin Still, a 10-year military veteran for the United States of America. I'm also a proud father and a strong believer in God. My passion is promoting renewable energy to combat climate change.
+## Table of Contents
 
-## Usage
+1. [About the Project](#about-the-project)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Getting Started](#getting-started)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
 
-Feel free to explore my website and learn more about my journey and interests.
+---
+
+## About the Project
+
+**Eats Bitcoin** is a hybrid creative-engineer initiative focused on developing visual design and technical code solutions in the crypto and blockchain ecosystem. It's built for developers, designers, and visionaries who are looking to build aesthetically compelling, technically sound projects in the Bitcoin/Web3 space.
+
+---
+
+## Features
+
+* 🧠 Creative concept generation using AI
+* 🎨 Visual design and branding with DALL·E
+* ⚙️ Code scaffolding for full-stack apps
+* 💸 Crypto-native tools (Bitcoin, Lightning, wallets)
+* 🧪 Experimental utilities for decentralized systems
+
+---
+
+## Tech Stack
+
+* **Frontend:** React, Tailwind CSS
+* **Backend:** Node.js, Express
+* **Blockchain:** Bitcoin, Lightning Network
+* **AI Tools:** OpenAI (ChatGPT, DALL·E)
+* **Design Tools:** Figma, DALL·E
+* **Utilities:** Git, Docker, Postman
+
+---
+
+## Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/NoFundx/eats-bitcoin.git
+
+# Navigate into the project directory
+cd eats-bitcoin
+
+# Install dependencies
+npm install
+
+# Run the project
+npm start
+```
+
+---
+
+## Contributing
+
+We welcome contributions from the community! Here's how to get involved:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/your-feature-name`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/your-feature-name`)
+5. Open a pull request and describe your work
+
+---
 
 ## Contact
 
-You can reach out to me at [justin.t.still@outlook.com](mailto:justin.t.still@outlook.com) for any inquiries or collaborations.
+Have questions or ideas? Reach out:
 
-## License
+* **Email:** justin.eatsbitcoin.com
+* **Twitter:** [@eatsbitcoin](https://twitter.com/eatsbitcoin)
+* **Website:** [eatsbitcoin.com](https://eatsbitcoin.com)
 
-This project is licensed under the [MIT License](LICENSE.md).
+---
+
+Thank you for visiting Eats Bitcoin — where design meets decentralization. ⚡️
+
